@@ -8,11 +8,11 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        text: "pliss mau dong laa",
+        image: "https://github.com/rendigwn15/gimbwal/blob/db2f89c8b0f3a1ca5c0c0fb984f87ce4375bd6bc/2d98ef1ec7c84ea30a481bec18d0ce15.jpg"
     },
     {
-        text: "pls klik yg kiri",
+        text: "laila pliss klik yg kiri",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
