@@ -13,11 +13,11 @@ const messages = [
     },
     {
         text: "laila pliss klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        image: "https://github.com/rendigwn15/gimbwal/blob/56a6feccc2965ec53a7d4407a725486460d2e4ab/c7835e9f4415c496d0876136d680fa00.jpg"
     },
     {
         text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        image: "https://github.com/rendigwn15/gimbwal/blob/56a6feccc2965ec53a7d4407a725486460d2e4ab/c7835e9f4415c496d0876136d680fa00.jpg"
     }
 ];
 
